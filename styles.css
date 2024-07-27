@@ -12,4 +12,4 @@ h1{font-size: 30px;}
 .half-width img{
     padding: 50%;
 }
-section{height: 500px;border: 1px solid red;}
+section{height: 500px;border: 1px solid red;margin-bottom: 10px;}
