@@ -10,10 +10,8 @@ h1{font-size: 30px;}
     margin-left: 5%;
     padding-left: 2%;
 }
-.half-width img{100%
+.half-width img{width: 100%;
 }
-.top-banner{height: 500px;border: 1px solid red;margin-bottom: 10px;}
-second-widht{width: 40%;float: left;margin: 10%;padding: 5px;}
 .top-banner{
     background-image: url("images/copy.png");
     background-repeat: no-repeat;
@@ -26,3 +24,4 @@ second-widht{width: 40%;float: left;margin: 10%;padding: 5px;}
     font-weight:800px;
     color: white;
 }
+section{height: 500px;border: 1px solid red;margin-bottom: 10px;}
