@@ -3,7 +3,7 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;    
 }
 h1{font-size: 30px;}
-.name-highlight{color:orange;}
+.orange-highlight{color:orange;}
 .half-width{
     width: 40%;
     float: left;
@@ -16,12 +16,27 @@ h1{font-size: 30px;}
     background-image: url("images/copy.png");
     background-repeat: no-repeat;
 }
+.dream-area{background-image: url("images/copy3.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(45deg, lightsalmon, tomato);
-    padding:10px 30px;
+    background-image: linear-gradient(45deg, yellow, red);
+    padding:10px 20px;
     border-radius: 5px;
     font-weight:800px;
     color: white;
 }
-section{height: 500px;border: 1px solid red;margin-bottom: 10px;}
+section{height: 500px;margin-bottom: 10px;}
+.data-entry{
+    border-width: 40px;border:1px solid red;
+}
+.Single-experiance{
+    box-shadow:10px 10px 40px gray;
+    border-radius: 5px;
+    height: 60%;
+}
+.Experiance{background-image: url("images/background0.png");background-repeat: no-repeat;}
+#data-entry{border-left: 7px solid;border-image: linear-gradient(lightsalmon, tomato);border-image-slice: 1;
+}
