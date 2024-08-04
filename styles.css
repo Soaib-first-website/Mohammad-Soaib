@@ -41,3 +41,4 @@ section{height: 500px;margin-bottom: 10px;}
 #data-entry{border-left: 7px solid;border-image: linear-gradient(lightsalmon, tomato);border-image-slice: 1;
 }
 #computer{border-left:7px solid;border-image:linear-gradient(180deg, blue, cyan);border-image-slice: 1;}
+p{text-align: center;}
