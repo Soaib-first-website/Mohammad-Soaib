@@ -40,3 +40,4 @@ section{height: 500px;margin-bottom: 10px;}
 .Experiance{background-image: url("images/background0.png");background-repeat: no-repeat;}
 #data-entry{border-left: 7px solid;border-image: linear-gradient(lightsalmon, tomato);border-image-slice: 1;
 }
+#computer{border-left:7px solid;border-image:linear-gradient(180deg, blue, cyan);border-image-slice: 1;}
