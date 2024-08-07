@@ -42,3 +42,4 @@ section{height: 500px;margin-bottom: 10px;}
 }
 #computer{border-left:7px solid;border-image:linear-gradient(180deg, blue, cyan);border-image-slice: 1;}
 p{text-align: center;}
+.lecturer{width: 40%;float: left;margin-left: 5%;padding-left: 2%;}
